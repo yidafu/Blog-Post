@@ -1,5 +1,5 @@
 ---
-title: React Redux & Redux Sage 使用记录
+title: React Redux & Redux Sage 使用示例
 date: '2018-12-29'
 tags:
   - react
