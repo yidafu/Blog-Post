@@ -99,3 +99,7 @@ public class Application {
 ```
 
 访问`localhost:8080`就会收到`Greetings from Spring Boot!`消息。
+
+## 总结
+
+相比`springMVC`,`spring boot`上手难度更小一些.对新手也更加友好一点.
